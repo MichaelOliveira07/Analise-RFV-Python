@@ -1,6 +1,6 @@
 ## 🚀 Análise RFV para se antecipar ao Churn e Proteger a Receita
 
-### 🧠1. Objetivo do Projeto
+### 🧠1. Objetivo do Projeto 
 
 
 Transformar dados em receita e blindar a carteira contra a perda de clientes (churn) é o papel de uma análise de dados verdadeiramente estratégica. 
@@ -21,7 +21,7 @@ Este projeto em **Python** focado em inteligência de clientes, aplicando o mode
 
 #
 
-### 3. Perguntas a serem respondidas:
+### ❔3. Perguntas a serem respondidas:
 
 Mais do que apenas agrupar clientes, o coração deste projeto foi responder a duas perguntas vitais para qualquer negócio hoje:
 
@@ -32,9 +32,9 @@ Mais do que apenas agrupar clientes, o coração deste projeto foi responder a d
 - 🧠 Retenção é eficiência. Prever o churn e agir antes que o cliente saia é drasticamente mais barato e estratégico do que tentar adquirir um cliente novo.
 #
 
-### 4. Resultados: 
+### 💡 4. Resultados: 
 
-#### 💡 Através desse projeto, consegui mapear de forma clara:
+#### Através desse projeto, consegui mapear de forma clara:
 
 - **💗 A Saúde da Base:** Identificando o percentual exato de clientes "Em Risco" e "Hibernando".
 
