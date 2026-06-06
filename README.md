@@ -1,6 +1,6 @@
 # 🚀 Análise RFV para se antecipar ao Churn e Proteger a Receita
 
-
+--
 
 Transformar dados em receita e blindar a carteira contra a perda de clientes (churn) é o papel de uma análise de dados verdadeiramente estratégica. 
 
