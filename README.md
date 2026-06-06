@@ -32,7 +32,7 @@ Mais do que apenas agrupar clientes, o coração deste projeto foi responder a d
 - 🧠 Retenção é eficiência. Prever o churn e agir antes que o cliente saia é drasticamente mais barato e estratégico do que tentar adquirir um cliente novo.
 #
 
-### 💡 4. Resultados: 
+### 💡4. Resultados: 
 
 #### Através desse projeto, consegui mapear de forma clara:
 
