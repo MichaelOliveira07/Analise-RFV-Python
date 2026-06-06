@@ -21,3 +21,9 @@ Este projeto em **Python** focado em inteligência de clientes, aplicando o mode
 - **📊Tendências de Comportamento:** Antecipando movimentos de queda de engajamento para que o time de negócios possa desenhar ações preditivas de retenção.
 
 Com essa análise, o time de negócios ganha um mapa exato de onde aplicar estratégias de Up-selling para os clientes fiéis e onde ligar o alerta máximo para salvar contas valiosas antes que o cancelamento aconteça.
+
+**🛠 Stack Técnica:**
+
+**Linguagem:** Python / **Bibliotecas:** pandas, pyodbc, datetime, numpy, seaborn, matplotlib, ListedColormap e plotly.express
+
+**Dados:** SQL Server 
