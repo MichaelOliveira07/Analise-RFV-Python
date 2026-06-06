@@ -14,10 +14,10 @@ Este projeto em **Python** focado em inteligência de clientes, aplicando o mode
 #
 ### 💡 Através desse projeto, consegui mapear de forma clara:
 
-- #### 💗 A Saúde da Base: Identificando o percentual exato de clientes "Em Risco" e "Hibernando".
+- **💗 A Saúde da Base:** Identificando o percentual exato de clientes "Em Risco" e "Hibernando".
 
-- #### 💰Representatividade Financeira: Cruzando o volume de clientes por segmento com a sua respectiva participação no faturamento e ticket médio.
+- **💰Representatividade Financeira:** Cruzando o volume de clientes por segmento com a sua respectiva participação no faturamento e ticket médio.
 
-- #### 📊Tendências de Comportamento: Antecipando movimentos de queda de engajamento para que o time de negócios possa desenhar ações preditivas de retenção.
+- **📊Tendências de Comportamento:** Antecipando movimentos de queda de engajamento para que o time de negócios possa desenhar ações preditivas de retenção.
 
 Com essa análise, o time de negócios ganha um mapa exato de onde aplicar estratégias de Up-selling para os clientes fiéis e onde ligar o alerta máximo para salvar contas valiosas antes que o cancelamento aconteça.
