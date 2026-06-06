@@ -3,6 +3,16 @@
 Transformar dados em receita e blindar a carteira contra a perda de clientes (churn) é o papel de uma análise de dados verdadeiramente estratégica. 
 
 Este projeto em **Python** focado em inteligência de clientes, aplicando o modelo de segmentação **RFV (Recorrência, Frequência e Valor)**. O grande objetivo? Ir além dos números frios e gerar direcionamentos práticos que impactam no faturamento da empresa.
+
+**🛠 Ferramentas Utilizadas:**
+
+**Jupyter Notebook:** Como ambiente de desenvolvimento
+
+**Linguagem:** Python para desenvolvimento de todo o projeto
+
+**Bibliotecas:** pandas, pyodbc, datetime, numpy, seaborn, matplotlib, ListedColormap e plotly.express
+
+**Dados:** SQL Server 
 #
 #### Mais do que apenas agrupar clientes, o coração deste projeto foi responder a duas perguntas vitais para qualquer negócio hoje:
 
@@ -24,8 +34,4 @@ Com essa análise, o time de negócios ganha um mapa exato de onde aplicar estra
 
 #
 
-**🛠 Stack Técnica:**
 
-**Linguagem:** Python / **Bibliotecas:** pandas, pyodbc, datetime, numpy, seaborn, matplotlib, ListedColormap e plotly.express
-
-**Dados:** SQL Server 
