@@ -4,13 +4,13 @@ Transformar dados em receita e blindar a carteira contra a perda de clientes (ch
 
 Este projeto em **Python** focado em inteligência de clientes, aplicando o modelo de segmentação **RFV (Recorrência, Frequência e Valor)**. O grande objetivo? Ir além dos números frios e gerar direcionamentos práticos que impactam no faturamento da empresa.
 #
-**Mais do que apenas agrupar clientes, o coração deste projeto foi responder a duas perguntas vitais para qualquer negócio hoje:** 
+### Mais do que apenas agrupar clientes, o coração deste projeto foi responder a duas perguntas vitais para qualquer negócio hoje:** 
 
-🔍 Onde estão as nossas melhores oportunidades de crescimento e receita?
+- 🔍 Onde estão as nossas melhores oportunidades de crescimento e receita?
 
-👨‍👩‍👧‍👦 Quais clientes estão nos dando sinais de alerta antes de abandonarem a empresa (churn)?
+- 👨‍👩‍👧‍👦 Quais clientes estão nos dando sinais de alerta antes de abandonarem a empresa (churn)?
 
-🧠 Retenção é eficiência. Prever o churn e agir antes que o cliente saia é drasticamente mais barato e estratégico do que tentar adquirir um cliente novo.
+- 🧠 Retenção é eficiência. Prever o churn e agir antes que o cliente saia é drasticamente mais barato e estratégico do que tentar adquirir um cliente novo.
 #
 ### 💡 Através desse projeto, consegui mapear de forma clara:
 
