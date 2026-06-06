@@ -4,6 +4,7 @@ Transformar dados em receita e blindar a carteira contra a perda de clientes (ch
 
 Este projeto em **Python** focado em inteligência de clientes, aplicando o modelo de segmentação **RFV (Recorrência, Frequência e Valor)**. O grande objetivo? Ir além dos números frios e gerar direcionamentos práticos que impactam no faturamento da empresa.
 
+
 **🛠 Ferramentas Utilizadas:**
 
 **Jupyter Notebook:** Como ambiente de desenvolvimento
